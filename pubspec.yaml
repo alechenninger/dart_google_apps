@@ -20,7 +20,7 @@ version: 0.1.2
 homepage: https://github.com/google/dart_google_apps
 
 environment:
-  sdk: ">=3.0.0 <4.0.0"
+  sdk: ">=3.2.0 <4.0.0"
 
 dependencies:
   js: ^0.6.1
